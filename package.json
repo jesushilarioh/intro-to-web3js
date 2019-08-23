@@ -1,0 +1,22 @@
+{
+  "name": "intro-to-web3js",
+  "version": "1.0.0",
+  "description": "This collection of examples comes from DApp university's Intro to Web3js tutorial. Resource found here: http://www.dappuniversity.com/articles/web3-js-intro",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesushilarioh/intro-to-web3js.git"
+  },
+  "author": "Jesus Hilario H.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesushilarioh/intro-to-web3js/issues"
+  },
+  "homepage": "https://github.com/jesushilarioh/intro-to-web3js#readme",
+  "dependencies": {
+    "web3": "^1.2.1"
+  }
+}
